@@ -1,0 +1,31 @@
+{
+  "name": "404-page-template",
+  "version": "1.0.0",
+  "description": "404 Page Template",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarryLaly/404-page-template.git"
+  },
+  "keywords": [
+    "404",
+    "page",
+    "template",
+    "html",
+    "freebies"
+  ],
+  "author": "Garry Priambudi <garrylaly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarryLaly/404-page-template/issues"
+  },
+  "homepage": "https://github.com/GarryLaly/404-page-template#readme"
+}

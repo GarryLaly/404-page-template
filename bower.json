@@ -1,0 +1,18 @@
+{
+  "name": "404-page-template",
+  "description": "404 Page Template",
+  "main": "index.js",
+  "authors": [
+    "Garry Priambudi <garrylaly@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "404",
+    "page",
+    "template",
+    "html",
+    "freebies"
+  ],
+  "homepage": "https://github.com/GarryLaly/404-page-template",
+  "private": true
+}
